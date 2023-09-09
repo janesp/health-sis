@@ -31,11 +31,11 @@ To move towards structured clinical health data, a first prototype was built («
 
 Using existing standards and technologies (e.g. a centralized FHIR-Server), the very first version of the prototype was completed in two months time, also implementing a clean backend and app architecture to address data protection requirements from the beginning.
 
-See the «OnceHealth» [positioning document](https://drive.google.com/file/d/1-x8ZdxDy-QpnI3OIizYZNT3yg0MdbjVq) for more information about the envisaged ehealth ecosystem and a pragmatic approach to get results quickly.
+See the «OnceHealth» [positioning document](https://drive.google.com/file/d/1GGJXCBIJBfN4DQXXgrpdBIyjkvemgXl4) for more information about the envisaged ehealth ecosystem and a pragmatic approach to get results quickly.
 
 ## Idea
 
-As outlined in the [positioning document](https://drive.google.com/file/d/1-x8ZdxDy-QpnI3OIizYZNT3yg0MdbjVq), the main objective is to provide a citizen centric (vs. siloed) approach for personal health data.
+As outlined in the [positioning document](https://drive.google.com/file/d/1GGJXCBIJBfN4DQXXgrpdBIyjkvemgXl4), the main objective is to provide a citizen centric (vs. siloed) approach for personal health data.
 
 To address the shortcomings of centralized data stores, a proof of concept (prototype) of a wallet-based personal health record (PHR) shall be implemented («EPD 3.0»), based on existing standards and the Swiss E-ID sandbox (i.e. Hyperledger Indy, aca-py). To keep the SSI-part simple, using the [Verifiable Credential Management System](https://github.com/SSI-Solutions/vcms/tree/main) (VCMS) is envisaged.
 
