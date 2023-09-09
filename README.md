@@ -48,14 +48,16 @@ The following stages are envsiaged for the PoC implementation:
 * Technical proof - interaction use cases with very minimalistic verifiable credentials, based on anoncreds
 * Usage and demonstration proof - extended use cases with more realistic verifiable credentials, based on json-ld (as FHIR specifications are available in this format)
 
-A few interaction use cases are envisaged:
+The main purpose of the PoC is to demonstrate an implementation based on SSI principles to showcase tangible results to potential users and investors for further refinement and funding.
+
+## Use Cases
+
+To showcase the interaction of several participants of the healthcare system and their wallets, a few simple and easy to comprehend use cases are envisaged for the implementation of the PoC:
 
 * The patient John Miller carries a wallet with information of an international patient summary (allergies, medication, etc.) and a health insurance card in the form of previously issued VCs
 * John enters the office of Dr. Charles Brewster and registers through a QR code; this initiaites a request for insurance and health information in John's wallet, which is subsequently confirmed by John
 * Dr. Brewster issues the findings of his examination as a VC and prescribes some drugs, also in the form of VCs
 * After the visit, John orders the drugs through the «Universal Pharmacy» online store by presenting the prescription VCs
-
-The main purpose of the PoC is to demonstrate an implementation based on SSI principles to showcase tangible results to potential users and investors for further refinement and funding.
 
 ## References
 
