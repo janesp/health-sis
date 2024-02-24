@@ -70,4 +70,5 @@ To showcase the interaction of several participants of the healthcare system and
 * E-ID sandbox - https://www.eid.admin.ch/eid/de/home/sandbox/sandbox.html
 * Swiss E-ID Github - https://github.com/e-id-admin
 * Webinar health data and cultures - https://youtu.be/8_oLi-a4Lck (see Youtube channel for more webinars)
+* Working Group Health: DIDAS Statement on the Consultation EPDG - https://www.didas.swiss/de/2023/11/13/didas-stellungnahme-zur-epdg-revision/
 
